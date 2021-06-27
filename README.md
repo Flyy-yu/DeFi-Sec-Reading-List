@@ -4,6 +4,9 @@ DeFi security reading list
 #### CertiK security leaderboard
 https://www.certik.org/
 
+#### rekt.news DeFi incidents leaderboard
+https://rekt.news/leaderboard/
+
 #### immunefi(smart contract bug bounty platform) write ups 
 https://medium.com/immunefi
 
