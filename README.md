@@ -25,6 +25,10 @@ $$$$
 https://github.com/openblocksec/blocksec-ctfs
 
 $$$$
+#### Blockchain threat intelligence newsletter
+https://blockthreat.substack.com/
+
+$$$$
 #### High quality educational videos on DeFi 
 https://www.youtube.com/c/Finematics/videos
 
