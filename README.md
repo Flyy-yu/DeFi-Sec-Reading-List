@@ -13,6 +13,10 @@ $$$$
 https://rekt.news/leaderboard/
 
 $$$$
+#### samczsun
+https://samczsun.com/
+
+$$$$
 #### immunefi(smart contract bug bounty platform) write ups 
 https://medium.com/immunefi
 
